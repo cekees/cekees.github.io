@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Software I've developed.
+Software we develop and maintain

@@ -3,7 +3,7 @@ permalink: /chris_kees/
 title: "About"
 excerpt: "Chris Kees is an associate professor at Louisiana State University."
 last_modified_at: 2020-11-05T10:15:22-04:00
-toc: true
+toc: false
 ---
 
 Chris Kees is a an associate professort at Louisisiana State

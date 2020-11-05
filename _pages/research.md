@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Some of my research interests.
+Ongoing areas of interest
