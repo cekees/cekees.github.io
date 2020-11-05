@@ -10,27 +10,27 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Research in computational methods and modeling for coastal, hydraulic, and hydrologic engineering. <bf />
+  Research in physics-based modeling and computational methods for coastal, hydraulic, and hydrologic engineering. <bf />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/models.jpg
+    alt: "Modeling"
+    title: "Modeling"
+    excerpt: "Waves and flow interacting with dynamic structures, vessels, soil, sediments, vegetation..."
+    url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/community.JPG
+    alt: "Community"
+    title: "Community"
+    excerpt: "Working with friends around the world to build understanding of natural and engineered systems."
+    url: "/group"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+  - image_path: /assets/images/proteus.jpg
+    alt: "Proteus"
+    title: "Proteus"
+    excerpt: "Python software for computational methods and simulation. Model waves, open channel flow, fluid-structure interaction, etc..."
+    url: "https://proteustoolkit.org"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

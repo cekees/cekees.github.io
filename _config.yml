@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kees Group"
+title                    : "Chris Kees"
 title_separator          : "-"
 subtitle                 : "LSU | CEE | CCT"
 name                     : &name "Chris Kees" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://cekees.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Chris Kees's personal website."
+url                      : https://cekees.github.io # the base hostname & protocol
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cekees/cekees.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -43,7 +43,7 @@ reCaptcha:
   secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
 
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : " "# blank (default) uses feed.xml
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
@@ -53,11 +53,11 @@ algolia:
   index_name             : cekees # YOUR_INDEX_NAME
   search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
-  files_to_exclude:
-    - _posts/2017-11-28-post-exclude-search.md
+#  files_to_exclude:
+#    - _posts/2017-11-28-post-exclude-search.md
 
-# SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+# SEO Related  google-site-verification=
+google_site_verification : "2886gJDwDViUxS8ixqOOy3-1X9BQPoGMBkpAJfqbShM" # Replace this with your ID, or delete CEK:DONE
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -83,7 +83,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "G-GN4G1S0YME" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
@@ -91,7 +91,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/chris-kees.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
+  bio              : "Associate Professor in Civil and Environmental Engineering at Louisiana State University"
   location         : "Baton Rouge, LA, USA"
   links:
 #    - label: "Made Mistakes"
@@ -271,7 +271,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -280,7 +280,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
