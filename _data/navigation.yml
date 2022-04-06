@@ -26,8 +26,8 @@ main:
     url: /software/
   - title: "Projects"
     url: /projects/
-  - title: "Group"
-    url: /group/
+  - title: "People"
+    url: /people/
   - title: "About"
     url: /chris_kees/
 

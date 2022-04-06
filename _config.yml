@@ -63,21 +63,21 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "cekees"
-facebook:
-  username               : &facebook "chris.kees.75"
-  app_id                 :
-  publisher              :
-og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+#twitter:
+#  username               : &twitter "cekees"
+#facebook:
+#  username               : &facebook "chris.kees.75"
+#  app_id                 :
+#  publisher              :
+#og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - "https://twitter.com/cekees"
-    - "https://www.facebook.com/chris.kees.75"
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
+#    - "https://twitter.com/cekees"
+#    - "https://www.facebook.com/chris.kees.75"
 
 # Analytics
 analytics:
@@ -91,35 +91,35 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/chris-kees.jpg"
-  bio              : "Associate Professor in Civil and Environmental Engineering at Louisiana State University"
+  bio              : "CSRS Distinguished Professor in Coastal Engineering"
   location         : "Baton Rouge, LA, USA"
   links:
 #    - label: "Made Mistakes"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cekees"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/cekees"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cekees"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/chris.kees.75"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/chris.kees.75"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cekees"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/cekees"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cekees"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/chris.kees.75"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/chris.kees.75"
 
 
 # Reading Files
@@ -188,7 +188,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  group:
+  people:
     output: true
     permalink: /:collection/:path/
 
@@ -224,7 +224,7 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # _group
+  # _people
   - scope:
       path: ""
       type: group
