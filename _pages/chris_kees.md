@@ -8,9 +8,17 @@ toc: false
 
 I am an associate professort at Louisisiana State University
 in the [Department of Civil and Environmental
-Engineering](https://cee.lsu.edu). I have been onducting research
+Engineering](https://cee.lsu.edu). I have been conducting research
 in numerical methods, mathematical modeling, and computational
 engineering for over twenty-five years.
+
+I joined LSU in August, 2020, where I am the [CSRS Distinguished
+Professor in Coastal
+Engineering](https://www.lsu.edu/eng/cee/people/kees.php) and hold a
+joint position in the [Center for Computation and
+Technology](https://cct.lsu.edu). I am also a fellow of the [Coastal
+Studies Institute](https://www.lsu.edu/csi) and member-at-large on the
+executive committee for the [Coastal and Ecological Design Studio](https://css.lsu.edu).
 
 I was born in Brookhaven,
 Mississippi and graduated from Brookhaven High School. I graduated
@@ -22,14 +30,6 @@ Engineering. After completing a post-doc in the Center for Research in
 Scientific Computaitona at North Carolina State University, I spent
 fifteeen years as a Research Hydraulic Engineer at the US Army Coastal
 and Hydraulics Laboratory.
-
-I joined LSU in August, 2020, where I am the [CSRS Distinguished
-Professor in Coastal
-Engineering](https://www.lsu.edu/eng/cee/people/kees.php) and hold a
-joint position in the [Center for Computation and
-Technology](https://cct.lsu.edu). I am also a fellow of the [Coastal
-Studies Institute](https://www.lsu.edu/csi) and member-at-large on the
-executive committee for the [Coastal and Ecological Design Studio](https://css.lsu.edu).
 
 [Publications (Google Scholar)](https://scholar.google.com/citations?hl=en&user=0zNoC4EAAAAJ&view_op=list_works&sortby=pubdate)
  
