@@ -9,3 +9,4 @@ I was born in Taipei, Taiwan. I graduated from National Taiwan University with a
 
 I have committed myself to research, teaching, and service. My ultimate goal is to link all experts and researchers with interdisciplinary backgrounds at all kinds of levels to contribute to our community and create a positive impact on the world.
 
+[Publications (Google Scholar)] (https://scholar.google.com/citations?hl=zh-TW&user=MAYvRagAAAAJ)
