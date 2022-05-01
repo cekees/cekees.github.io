@@ -6,6 +6,8 @@ last_modified_at: 2022-04-25T10:15:22-04:00
 toc: false
 ---
 
+<img src="https://github.com/cekees/cekees.github.io/blob/main/assets/images/test_wenhuai.png">
+
 ![image](https://github.com/cekees/cekees.github.io/blob/main/assets/images/test_wenhuai.png)
 
 I am a postdoctoral researcher in the Department of Civil and Environmental Engineering at Louisiana State University. My research at LSU is focused on developing a better understanding of the interaction between fluids and structures. Relevant topics include structural control of civil infrastructures and offshore renewable energy devices, and high-fidelity numerical tools for computational modeling of water waves. I am striving to resolve critical issues related to life safety, human welfare, and ecosystem protection.
