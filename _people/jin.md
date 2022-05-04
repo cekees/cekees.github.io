@@ -11,4 +11,4 @@ excerpt: "Coastal Informatics Analyst (IT Analyst 3)"
 [Researchgate](https://www.researchgate.net/profile/Jin-Ikeda)&#10002; \
 Contact: [jikeda@lsu.edu](mailto:jikeda@lsu.edu)&#9993;
 
-<img src="/assets/images/North Padre Island TX.JPG" width="47%" height="47%" hspace="20px"><img src="/assets/images/Coastal Wetland LA.JPEG" width="47%" height="47%">
+<img src="/assets/images/North Padre Island TX.JPG" alt="Lagoonal system, Texas" width="47%" height="47%" hspace="20px"><img src="/assets/images/Coastal Wetland LA.JPEG" alt="Deltaic system, Louisiana" width="47%" height="47%">
