@@ -9,6 +9,6 @@ My recent interest is to better understand coastal dynamics on the coastal-land 
 
 [Biosketch](/assets/images/Ikeda_Biosketch.pdf)&#128195; \
 [Researchgate](https://www.researchgate.net/profile/Jin-Ikeda)&#10002; \
-Contact: [jikeda@lsu.edu](mailto:jikeda@lsu.edu)&#9993; 
-</p>
+Contact: [jikeda@lsu.edu](mailto:jikeda@lsu.edu)&#9993; </p>
+
 <img src="/assets/images/North Padre Island TX.JPG" width="47%" height="47%" vspace="20px" hspace="20px"><img src="/assets/images/Coastal Wetland LA.JPEG" width="47%" height="47%">
