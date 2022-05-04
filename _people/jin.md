@@ -3,8 +3,8 @@ title: "Jin Ikeda"
 excerpt: "Coastal Informatics Analyst (IT Analyst 3)"
 ---
 
-<p style="font-family:'Computer Modern'">I am a research scientist working on computational (hydrodynamic and morphological) models of coastal processes ʕ •ᴥ•ʔ. </p>
-<p style="font-family:'Computer Modern'">Also, I have research experience in laboratory and field experiments on sediment dynamics. </p>
+<p style="font-family:Computer Modern">I am a research scientist working on computational (hydrodynamic and morphological) models of coastal processes ʕ •ᴥ•ʔ. </p>
+<p style="font-family:Computer Modern">Also, I have research experience in laboratory and field experiments on sediment dynamics. </p>
 <p style="font-family:'Computer Modern'">My recent interest is to better understand coastal dynamics on the coastal-land margins in response to climate drivers (e.g., climate change and sea-level rise). </p>
 
 <p style="font-family:'Computer Modern'"><a href="/assets/images/Ikeda_Biosketch.pdf">Biosketch</a> &#128195; </p>
