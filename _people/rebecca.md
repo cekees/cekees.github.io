@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Schurr"
 excerpt: "Working toward a MS in Civil Engineering in the Coastal and Ecological Engineering"
-toc: false
+share: false
 ---
 
 I am graduate student in Civil and Environmental Engineering working toward 
