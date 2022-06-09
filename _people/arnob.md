@@ -1,6 +1,8 @@
 ---
 title: "Arnob Barua"
 excerpt: "Working toward a MS in Civil Engineering in the Water Resources Engineering specialty"
+header:
+  teaser: /assets/images/blankprofile.png
 ---
 
 I am a Graduate student at Department of Civil and Environmental Engineering in Louisiana State University-Baton Rouge. My thesis work is related to Groundwater infiltration using the Finite element approach.
