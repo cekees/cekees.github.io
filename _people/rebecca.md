@@ -2,7 +2,7 @@
 title: "Rebecca Schurr"
 excerpt: "Working toward a MS in Civil Engineering in the Coastal and Ecological Engineering"
 header:
-  teaser: /assets/images/proteus.jpg
+  teaser: /assets/images/blankprofile.png
 ---
 
 I am a graduate student in Civil and Environmental Engineering working toward a Master’s degree in the Coastal and Ecological Engineering program. My work involves computational modeling of water waves and overland flow. 
