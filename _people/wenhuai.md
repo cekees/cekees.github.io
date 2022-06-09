@@ -2,8 +2,8 @@
 permalink: /wenhuai/
 title: "Wen-Huai Tsao"
 excerpt: "Postdoctoral researcher working on fluid-structure interaction"
-last_modified_at: 2022-04-25T10:15:22-04:00
-toc: false
+header:
+  teaser: /assets/images/blankprofile.png
 ---
 
 <img src="/assets/images/test_wenhuai.png">
