@@ -2,7 +2,7 @@
 title: "Jin Ikeda"
 excerpt: "Coastal Informatics Analyst (IT Analyst 3)"
 header:
-  teaser: /assets/images/jin.png
+  teaser: /assets/images/Jin.png
 ---
 
 <p style="font-family:arial">
