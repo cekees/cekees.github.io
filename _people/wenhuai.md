@@ -3,7 +3,7 @@ permalink: /wenhuai/
 title: "Wen-Huai Tsao"
 excerpt: "Postdoctoral researcher working on fluid-structure interaction"
 header:
-  teaser: /assets/images/blankprofile.png
+  teaser: /assets/images/wenhuai_profile.jpg
 ---
 
 I am a postdoctoral researcher in the Department of Civil and Environmental Engineering at Louisiana State University. My research at LSU is focused on developing a better understanding of the interaction between fluids and structures. Relevant topics include structural control of civil infrastructures and offshore renewable energy devices, and high-fidelity numerical tools for computational modeling of water waves. I am striving to resolve critical issues related to life safety, human welfare, and ecosystem protection.
