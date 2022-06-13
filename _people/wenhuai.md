@@ -18,7 +18,8 @@ I was born in Taipei, Taiwan. I graduated from National Taiwan University with a
 <p style="font-family:arial">
 <a href="/assets/images/CV_WenHuai.pdf" target="blank">CV</a>
 </p>
-
+<p style="font-family:arial">
 [Publications (Google Scholar)](https://scholar.google.com/citations?hl=zh-TW&user=MAYvRagAAAAJ)
+<a href="[https://scholar.google.com/citations?hl=zh-TW&user=MAYvRagAAAAJ]" target="blank">Publications (Google Scholar)</a> &#10002; </p>
 
 
