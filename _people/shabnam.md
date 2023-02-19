@@ -1,5 +1,5 @@
 ---
-permalink: /wenhuai/
+permalink: /shabnam/
 title: "Shabnam Mirheidarian"
 excerpt: "Research assistant working on flow-vegatation-sediment systems"
 header:
@@ -7,21 +7,11 @@ header:
 ---
 
 <p style="font-family:arial">
-hi test
+I am a Research Assistant at the Department of Civil and Environmental Engineering at Louisiana State University.  My research at LSU involves the evolution of natural riverine and coastal plan forms. Relevant topics include Bio-Geomorphodynamics, computational modeling of water waves, bank erosion, and vegetative modulation processes.
 </p>
 <p style="font-family:arial">
-I have committed myself to research, teaching, and service. My ultimate goal is to link all experts and researchers with interdisciplinary backgrounds at all kinds of levels to create a positive impact on the world.
+I was born in Iran. I graduated from Tarbiat Modares University with a Ph.D. in water resource management studying flow structure around vegetation patches using the PIV system. I visited Ocean Graduate School at the University of Western Australia for 6 months in 2019.
 </p>
 <p style="font-family:arial">
-I was born in Aedabil, Iran. I graduated from National Iran University with a BS and PhD in Civil Engineering. After completing a post-doc at NTU for one and half years, I visited the Department of Civil, Architectural and Environmental Engineering at UT Austin for two years. Then I joined LSU in July 2021.
-</p>
-<p style="font-family:arial">
-<a href="/assets/images/CV_WenHuai.pdf" target="blank">CV</a>
-</p>
-<p style="font-family:arial">
-<a href="https://scholar.google.com/citations?hl=zh-TW&user=MAYvRagAAAAJ" target="blank">Publications (Google Scholar)</a>
-</p>
-<p style="font-family:arial">
-<a href="https://www.youtube.com/channel/UCakF8dblCvRGmS1PxG8aV8Q/playlists" target="blank">Youtube Videos of FSI, water waves & Ocean Engineering</a>
-</p>
+My ultimate goal is to be an international researcher in the field and use my knowledge to produce outstanding research outputs.
 
