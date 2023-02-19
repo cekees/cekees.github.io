@@ -3,7 +3,7 @@ permalink: /shabnam/
 title: "Shabnam Mirheidarian"
 excerpt: "Research assistant working on flow-vegatation-sediment systems"
 header:
-  teaser: /assets/images/wenhuai_profile.jpg
+  teaser: /assets/images/Shabnam-profile.jpg
 ---
 
 <p style="font-family:arial">
