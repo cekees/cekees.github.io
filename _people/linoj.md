@@ -14,5 +14,5 @@ header:
 </p>
 <p style="font-family:arial">
   I am a native of Kerala, India. I received BTech in Mechanical Engineering from University of Calicut, India, MS and PhD from FAMU-FSU College of Engineering, Tallahassee, Florida. I joined LSU in September 2023 as a postdoctoral researcher
-c</p>
+</p>
 
