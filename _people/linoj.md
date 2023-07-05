@@ -1,7 +1,7 @@
 ---
 permalink: /linoj/
 title: "Linoj Vijayan"
-excerpt: "Postdoctoral researcher working on AAA"
+excerpt: "Postdoctoral researcher working on Coastal and Riverine Hydrodynamics"
 header:
   teaser: /assets/images/linoj_profile.jpg
 ---
