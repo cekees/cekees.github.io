@@ -2,7 +2,7 @@
 title: "Cole Statler"
 excerpt: "Working towards a M.S. in Coastal and Ecological Engineering"
 header:
-  teaser: /assets/images/Cole_Headshot.jpg
+  teaser: /assets/images/cole_profile.jpg
 ---
 
 I am a graduate student in Civil and Environmental Engineering working towards a master’s degree in Coastal and Ecological Engineering.  
