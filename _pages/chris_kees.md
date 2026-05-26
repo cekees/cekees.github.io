@@ -10,15 +10,14 @@ I am an associate professort at Louisisiana State University
 in the [Department of Civil and Environmental
 Engineering](https://cee.lsu.edu). I have been conducting research
 in numerical methods, mathematical modeling, and computational
-engineering for over twenty-five years.
+engineering for thirty years.
 
-I joined LSU in August, 2020, where I am the [CSRS Distinguished
+I joined LSU in August, 2020, where I am the [Director of the Coastal Ecosystem Design Studio](https://www.lsu.edu/ceds) and the [CSRS Distinguished
 Professor in Coastal
-Engineering](https://www.lsu.edu/eng/cee/people/kees.php) and hold a
-joint position in the [Center for Computation and
+Engineering](https://www.lsu.edu/eng/cee/people/kees.php), with
+a joint appointment in the [Center for Computation and
 Technology](https://cct.lsu.edu). I am also a fellow of the [Coastal
-Studies Institute](https://www.lsu.edu/csi) and member-at-large on the
-executive committee for the [Coastal and Ecological Design Studio](https://css.lsu.edu).
+Studies Institute](https://www.lsu.edu/csi).
 
 I was born in Brookhaven,
 Mississippi and graduated from Brookhaven High School. I graduated
